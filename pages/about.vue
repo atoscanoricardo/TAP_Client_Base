@@ -1,0 +1,10 @@
+<template>
+    <div>
+        <ul>
+            <li>https://vuejs.org/guide/components/props.html</li>
+            <li>https://vuejs.org/guide/components/events.html</li>
+            <li>https://vuejs.org/guide/essentials/computed.html</li>
+            <li>https://mdisearch.com/</li>
+        </ul>
+    </div>
+</template>
